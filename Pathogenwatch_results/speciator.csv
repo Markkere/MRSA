@@ -1,0 +1,23 @@
+"Genome ID","Genome Name","Version","Organism Name","Organism ID","Species Name","Species ID","Genus Name","Genus ID","Reference Library","Reference ID","Matching Hashes","p-Value","Mash Distance"
+"671a021392e79808fac97186","SGH_N121_BC16_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_FHEU01000001.1","952/1000",0,0.0011856
+"671a021392e7981c69c97185","SGH_N121_BC15_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JXUD01000001.1","940/1000",0,0.00149601
+"671a021392e7981de1c97189","SGH_N121_BC19_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_KK095586.1","936/1000",0,0.00160079
+"671a021392e7982f30c97179","SGH_N121_BC02_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JGEX01000001.1","932/1000",0,0.00170624
+"671a021392e7983373c97188","SGH_N121_BC18_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_OFYV01000057.1","880/1000",0,0.00314086
+"671a021392e79847cdc9717c","SGH_N121_BC05_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_KK095586.1","796/1000",0,0.00574147
+"671a021392e798506dc97181","SGH_N121_BC11_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_PKLD01000001.1","985/1000",0,0.000361208
+"671a021392e79855cac9718b","SGH_N121_BC21_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_FHEU01000001.1","949/1000",0,0.00126265
+"671a021392e79858eac9717e","SGH_N121_BC08_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_CP009361.1","897/1000",0,0.00265838
+"671a021392e7985e24c97187","SGH_N121_BC17_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_CVOQ01000001.1","935/1000",0,0.00162709
+"671a021392e798647bc97184","SGH_N121_BC14_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JGEX01000001.1","934/1000",0,0.00165343
+"671a021392e79866b9c9718d","SGH_N121_BC23_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_FHEU01000001.1","950/1000",0,0.00123693
+"671a021392e7986f7cc9717a","SGH_N121_BC03_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JGEX01000001.1","929/1000",0,0.00178577
+"671a021392e7987ea9c9717b","SGH_N121_BC04_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JGEX01000001.1","916/1000",0,0.00213483
+"671a021392e79881aec9718e","SGH_N121_BC24_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_JXUD01000001.1","877/1000",0,0.00322742
+"671a021392e798a39ec97180","SGH_N121_BC10_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_KK095586.1","922/1000",0,0.00197282
+"671a021392e798b004c9718a","SGH_N121_BC20_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_KK095586.1","935/1000",0,0.00162709
+"671a021392e798bc09c9717f","SGH_N121_BC09_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_UGZR01000002.1","910/1000",0,0.00229842
+"671a021392e798d626c9717d","SGH_N121_BC06_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_MLQJ01000010.1","970/1000",0,0.000730741
+"671a021392e798d80ac97183","SGH_N121_BC13_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_FFPY01000001.1","992/1000",0,0.000191626
+"671a021392e798dbd2c9718c","SGH_N121_BC22_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_KK095586.1","929/1000",0,0.00178577
+"671a021392e798df28c97182","SGH_N121_BC12_genomic","v4.0.0","Staphylococcus aureus","1280","Staphylococcus aureus","1280","Staphylococcus","1279","Staphylococcus","NZ_FKTB01000001.1","951/1000",0,0.00121124
