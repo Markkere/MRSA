@@ -1,0 +1,36 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+NA	contig_1	117395	118921	-	aur	zinc metalloproteinase aureolysin	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	509	509	100.00	93.71	509	EHO93748.1	zinc metalloproteinase aureolysin	NA	NA
+NA	contig_1	163287	164147	+	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	plus	VIRULENCE	VIRULENCE	NA	NA	PARTIALX	287	350	82.00	98.26	287	AUU58561.1	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	NA	NA
+NA	contig_1	182259	185807	-	cna	collagen adhesin Cna	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	1183	1183	100.00	97.80	1183	BAB96477.1	collagen adhesin Cna	NA	NA
+NA	contig_1	211354	214008	+	gyrA_S84L	Staphylococcus aureus quinolone resistant GyrA	core	AMR	POINT	QUINOLONE	QUINOLONE	POINTX	885	887	100.00	98.76	887	WP_000819084.1	DNA gyrase subunit A GyrA	NA	NA
+NA	contig_1	251771	253774	-	mecA	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	core	AMR	AMR	BETA-LACTAM	METHICILLIN	EXACTX	668	668	100.00	100.00	668	WP_000721306.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	NA	NA
+NA	contig_1	265757	267133	+	tet(K)	tetracycline efflux MFS transporter Tet(K)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACTX	459	459	100.00	100.00	459	WP_000492283.1	tetracycline efflux MFS transporter Tet(K)	NA	NA
+NA	contig_1	362340	363689	+	tet(38)	tetracycline efflux MFS transporter Tet(38)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	BLASTX	450	450	100.00	99.78	450	WP_001100293.1	tetracycline efflux MFS transporter Tet(38)	NA	NA
+NA	contig_1	586614	587966	+	mepA	multidrug efflux MATE transporter MepA	plus	AMR	AMR	TETRACYCLINE	TIGECYCLINE	BLASTX	451	451	100.00	98.23	451	BAB41547.1	multidrug efflux MATE transporter MepA	NA	NA
+NA	contig_1	588598	589953	-	glpT_A100V	Staphylococcus aureus fosfomycin resistant GlpT	core	AMR	POINT	FOSFOMYCIN	FOSFOMYCIN	POINTX	452	452	100.00	99.78	452	WP_001010111.1	glycerol-3-phosphate transporter GlpT	NA	NA
+NA	contig_3	105473	106912	+	lmrS	multidrug efflux MFS transporter LmrS	plus	STRESS	BIOCIDE	MACROLIDE/PHENICOL	CHLORAMPHENICOL/ERYTHROMYCIN	BLASTX	480	480	100.00	96.46	480	AAW38464.1	multidrug efflux MFS transporter LmrS	NA	NA
+NA	contig_3	181776	183038	+	murA_E291D	Staphylococcus aureus fosfomycin resistant MurA	core	AMR	POINT	FOSFOMYCIN	FOSFOMYCIN	POINTX	421	421	100.00	99.52	421	WP_000358006.1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA	NA	NA
+NA	contig_3	181776	183038	+	murA_T396N	Staphylococcus aureus fosfomycin resistant MurA	core	AMR	POINT	FOSFOMYCIN	FOSFOMYCIN	POINTX	421	421	100.00	99.52	421	WP_000358006.1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA	NA	NA
+NA	contig_3	255688	255765	+	hld	delta-hemolysin	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	26	26	100.00	100.00	26	AGU62139.1	delta-hemolysin	NA	NA
+NA	contig_3	308222	308710	+	sak	staphylokinase	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	163	163	100.00	98.77	163	CAA24957.1	staphylokinase	NA	NA
+NA	contig_3	312258	312605	+	scn	complement inhibitor SCIN-A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	116	116	100.00	100.00	116	ADL23798.1	complement inhibitor SCIN-A	NA	NA
+NA	contig_5	129393	131792	+	parC_S80F	Staphylococcus aureus quinolone resistant ParC	core	AMR	POINT	QUINOLONE	QUINOLONE	POINTX	800	800	100.00	98.88	800	WP_001289586.1	DNA topoisomerase IV subunit A ParC	NA	NA
+NA	contig_7	94193	94942	-	sel26	staphylococcal enterotoxin type 26	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	250	250	100.00	96.00	250	KAG18833.1	staphylococcal enterotoxin type 26	NA	NA
+NA	contig_8	23380	24120	+	ses	staphylococcal enterotoxin type S	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	247	257	96.11	99.60	247	BAG06667.1	staphylococcal enterotoxin type S	NA	NA
+NA	contig_8	24562	25209	+	set	staphylococcal enterotoxin type T	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	216	216	100.00	100.00	216	BAG06666.1	staphylococcal enterotoxin type T	NA	NA
+NA	contig_8	25540	26340	+	sej	staphylococcal enterotoxin type J	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	267	268	99.63	98.88	267	AAC78590.1	staphylococcal enterotoxin type J	NA	NA
+NA	contig_8	26427	27203	-	ser	staphylococcal enterotoxin type R	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	259	259	100.00	100.00	259	EVY93839.1	staphylococcal enterotoxin type R	NA	NA
+NA	contig_8	29495	30058	-	qacR	multidrug-binding transcriptional regulator QacR	plus	STRESS	BIOCIDE	QUATERNARY AMMONIUM	QUATERNARY AMMONIUM	BLASTX	188	188	100.00	99.47	188	ADK23698.1	multidrug-binding transcriptional regulator QacR	NA	NA
+NA	contig_8	30277	31776	+	qacA	quaternary ammonium compound efflux MFS transporter QacA	core	STRESS	BIOCIDE	QUATERNARY AMMONIUM	QUATERNARY AMMONIUM	BLASTX	500	514	97.28	99.80	500	WP_000622776.1	quaternary ammonium compound efflux MFS transporter QacA	NA	NA
+NA	contig_8	39437	40279	-	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	281	281	100.00	99.64	281	WP_000733283.1	BlaZ family penicillin-hydrolyzing class A beta-lactamase PC1	NA	NA
+NA	contig_8	40386	42140	+	blaR1	beta-lactam sensor/signal transducer BlaR1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	585	585	100.00	99.83	585	WP_001096376.1	beta-lactam sensor/signal transducer BlaR1	NA	NA
+NA	contig_8	42133	42510	+	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	126	126	100.00	99.21	126	WP_001284656.1	penicillinase repressor BlaI	NA	NA
+NA	contig_8	60199	60813	-	cadD	cadmium resistance transporter CadD	plus	STRESS	METAL	CADMIUM	CADMIUM	BLASTX	205	205	100.00	97.07	205	BAB43874.1	cadmium resistance transporter CadD	NA	NA
+NA	contig_8	97146	98120	-	hlgB	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	325	325	100.00	99.38	325	CAA57278.1	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	NA	NA
+NA	contig_8	98125	99069	-	hlgC	bi-component gamma-hemolysin HlgCB subunit C	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	315	315	100.00	97.46	315	CAA57277.1	bi-component gamma-hemolysin HlgCB subunit C	NA	NA
+NA	contig_8	99640	100566	-	hlgA	bi-component gamma-hemolysin HlgAB subunit A	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	309	309	100.00	99.35	309	AUU54669.1	bi-component gamma-hemolysin HlgAB subunit A	NA	NA
+NA	contig_9	14	793	+	seo	staphylococcal enterotoxin type O	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	260	260	100.00	100.00	260	BAB42916.1	staphylococcal enterotoxin type O	NA	NA
+NA	contig_9	1077	1793	+	sem	staphylococcal enterotoxin type M	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	239	239	100.00	94.14	239	SGR88215.1	staphylococcal enterotoxin type M	NA	NA
+NA	contig_9	1831	2556	+	sei	staphylococcal enterotoxin type I	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	242	243	99.59	93.39	242	SGR88193.1	staphylococcal enterotoxin type I	NA	NA
+NA	contig_9	2713	3480	+	seu	staphylococcal enterotoxin type U	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	256	261	100.00	94.25	261	SGR88168.1	staphylococcal enterotoxin type U	NA	NA
+NA	contig_9	3522	4337	+	sen	staphylococcal enterotoxin type N	plus	VIRULENCE	VIRULENCE	NA	NA	INTERNAL_STOP	272	272	100.00	99.63	272	SAO78304.1	staphylococcal enterotoxin type N	NA	NA

@@ -1,0 +1,24 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+NA	contig_1	24017	24328	+	fosB	FosB/FosD family fosfomycin resistance bacillithiol transferase	core	AMR	AMR	FOSFOMYCIN	FOSFOMYCIN	PARTIALX	104	139	74.82	98.08	104	WP_000920239.1	FosB/FosD family fosfomycin resistance bacillithiol transferase	NA	NA
+NA	contig_1	115176	115829	+	hlgA	bi-component gamma-hemolysin HlgAB subunit A	plus	VIRULENCE	VIRULENCE	NA	NA	INTERNAL_STOP	218	309	70.55	97.25	218	AUU54669.1	bi-component gamma-hemolysin HlgAB subunit A	NA	NA
+NA	contig_1	116608	117345	+	hlgC	bi-component gamma-hemolysin HlgCB subunit C	plus	VIRULENCE	VIRULENCE	NA	NA	PARTIALX	246	315	78.10	96.34	246	CAA57277.1	bi-component gamma-hemolysin HlgCB subunit C	NA	NA
+NA	contig_1	117350	118324	+	hlgB	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	325	325	100.00	97.54	325	CAA57278.1	bi-component gamma-hemolysin HlgAB/HlgCB subunit B	NA	NA
+NA	contig_1	356342	357634	-	aur	zinc metalloproteinase aureolysin	plus	VIRULENCE	VIRULENCE	NA	NA	PARTIALX	431	509	84.68	99.30	431	EHO93748.1	zinc metalloproteinase aureolysin	NA	NA
+NA	contig_1	401185	402234	+	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	350	350	100.00	100.00	350	AUU58561.1	polysaccharide intercellular adhesin biosynthesis/export protein IcaC	NA	NA
+NA	contig_1	485095	486684	-	mecA	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	core	AMR	AMR	BETA-LACTAM	METHICILLIN	PARTIALX	530	668	79.34	100.00	530	WP_000721310.1	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA	NA	NA
+NA	contig_1	487038	488012	+	mecR1	beta-lactam sensor/signal transducer MecR1	core	AMR	AMR	BETA-LACTAM	METHICILLIN	PARTIALX	325	585	55.56	100.00	325	WP_000952923.1	beta-lactam sensor/signal transducer MecR1	NA	NA
+NA	contig_1	568080	569429	+	tet(38)	tetracycline efflux MFS transporter Tet(38)	core	AMR	AMR	TETRACYCLINE	TETRACYCLINE	EXACTX	450	450	100.00	100.00	450	WP_001100300.1	tetracycline efflux MFS transporter Tet(38)	NA	NA
+NA	contig_1	796641	797993	+	mepA	multidrug efflux MATE transporter MepA	plus	AMR	AMR	TETRACYCLINE	TIGECYCLINE	BLASTX	451	451	100.00	99.33	451	BAB41547.1	multidrug efflux MATE transporter MepA	NA	NA
+NA	contig_1	831135	831743	+	selX	staphylococcal enterotoxin-like toxin X	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	203	203	100.00	96.06	203	AEI60187.1	staphylococcal enterotoxin-like toxin X	NA	NA
+NA	contig_1	1773744	1775960	+	parC_S80Y	Staphylococcus aureus quinolone resistant ParC	core	AMR	POINT	QUINOLONE	QUINOLONE	POINTX	739	800	92.38	97.70	739	WP_001289586.1	DNA topoisomerase IV subunit A ParC	NA	NA
+NA	contig_1	2281475	2282194	-	splB	serine protease SplB	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	240	240	100.00	99.58	240	ABD31003.1	serine protease SplB	NA	NA
+NA	contig_1	2282322	2283026	-	splA	serine protease SplA	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	235	235	100.00	100.00	235	ABD31004.1	serine protease SplA	NA	NA
+NA	contig_1	2295396	2296328	-	lukE	bi-component leukocidin LukED subunit E	plus	VIRULENCE	VIRULENCE	NA	NA	BLASTX	311	311	100.00	99.68	311	RCV70079.1	bi-component leukocidin LukED subunit E	NA	NA
+NA	contig_1	2423196	2423543	-	scn	complement inhibitor SCIN-A	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	116	116	100.00	100.00	116	ADL23798.1	complement inhibitor SCIN-A	NA	NA
+NA	contig_1	2425038	2425526	-	sak	staphylokinase	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	163	163	100.00	100.00	163	CAA24957.1	staphylokinase	NA	NA
+NA	contig_1	2479947	2480024	-	hld	delta-hemolysin	plus	VIRULENCE	VIRULENCE	NA	NA	EXACTX	26	26	100.00	100.00	26	AGU62139.1	delta-hemolysin	NA	NA
+NA	contig_3	64	1818	-	blaR1	beta-lactam sensor/signal transducer BlaR1	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	BLASTX	585	585	100.00	95.56	585	WP_001096386.1	beta-lactam sensor/signal transducer BlaR1	NA	NA
+NA	contig_3	1925	2509	+	blaZ	penicillin-hydrolyzing class A beta-lactamase BlaZ	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	PARTIALX	195	281	69.40	99.49	195	WP_000733289.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	NA	NA
+NA	contig_3	14788	15402	+	cadD	cadmium resistance transporter CadD	plus	STRESS	METAL	CADMIUM	CADMIUM	BLASTX	205	205	100.00	99.51	205	BAB43874.1	cadmium resistance transporter CadD	NA	NA
+NA	contig_3	19449	19754	-	blaI	penicillinase repressor BlaI	core	AMR	AMR	BETA-LACTAM	BETA-LACTAM	PARTIAL_CONTIG_ENDX	102	126	80.95	100.00	102	WP_001284656.1	penicillinase repressor BlaI	NA	NA
+NA	contig_6	7546	8334	-	lmrS	multidrug efflux MFS transporter LmrS	plus	STRESS	BIOCIDE	MACROLIDE/PHENICOL	CHLORAMPHENICOL/ERYTHROMYCIN	PARTIALX	263	480	54.79	97.72	263	AAW38464.1	multidrug efflux MFS transporter LmrS	NA	NA
